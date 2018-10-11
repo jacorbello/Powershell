@@ -7,5 +7,6 @@ Create an Issue to submit feedback.
 
 ## Contact
 If you'd like to contact me, reach me via one of the methods from my website:
-[JC_Site][]
-[JC_Site]: https://www.jeremycorbello.com
+[JeremyCorbello.com][]
+
+[JeremyCorbello.com]: https://www.jeremycorbello.com
