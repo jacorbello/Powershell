@@ -1,6 +1,6 @@
 Import-Module (Join-Path $(Split-Path $env:SMS_ADMIN_UI_PATH) ConfigurationManager.psd1)
 Set-Location "$((Get-PSDrive -PSProvider CMSite).name):"
-$ApplicationName = "R10 Phase 4 Drop 8 HF2"
+$ApplicationName = "Enter Application Name Here"
 
 #region exit codes
 $ExitCodes = @()
